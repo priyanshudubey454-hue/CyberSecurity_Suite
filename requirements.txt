@@ -1,0 +1,5 @@
+pynput
+pycryptodome
+requests
+pillow
+pyautogui
